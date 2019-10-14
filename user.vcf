@@ -1,14 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Su;Emily;;;
+FN: Emily  Su 
+ORG:Johns Hopkins Biomedical Engineering;
+TITLE:Ph.D. Candidate\nInstitute for Cell Engineering
+EMAIL;type=INTERNET;type=WORK;type=pref:esu3@jhmi.edu
+item1.ADR;type=WORK;type=pref:;;733 N Broadway\, Baltimore MD;;;21205;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.cahanlab.org
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
