@@ -119,7 +119,7 @@ img.profile-pic {
 }
 
 .name-title-company {
-	height: 100%;
+	height: 120%;
 }
 
 .banner {
@@ -146,7 +146,7 @@ img.profile-pic {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #333333;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .text-title-company {
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #821919;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
