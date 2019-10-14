@@ -123,7 +123,7 @@ img.profile-pic {
 }
 
 .banner {
-	height: 30%;
+	height: 20%;
 }
 
 .primary-info {
@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #3d3d3d;
+	background-color: #787878;
 }
 
 .bg-color-white {
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #3d3d3d;
+	background-color: #787878;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
