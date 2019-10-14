@@ -6,7 +6,7 @@ FN: Emily  Su
 ORG:Johns Hopkins Biomedical Engineering;
 TITLE:Ph.D. Candidate\nInstitute for Cell Engineering
 EMAIL;type=INTERNET;type=WORK;type=pref:esu3@jhmi.edu
-item1.ADR;type=WORK;type=pref:;;733 N Broadway\, Baltimore MD;;;21205;USA
+item1.ADR;type=WORK;type=pref:;;733 N Broadway\n Baltimore\, MD 21205
 item1.X-ABADR:sg
 item2.URL;type=pref:www.cahanlab.org
 item2.X-ABLabel:_$!<HomePage>!$_
