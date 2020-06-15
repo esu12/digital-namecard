@@ -208,7 +208,7 @@ img.logo-pic {
 	font-weight: 300;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 720px) {
   img.profile-pic {
     height: 60%;
     width: 60%;
