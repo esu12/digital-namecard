@@ -26,8 +26,8 @@ img {
 	float: left;
     margin-left: auto;
     margin-right: auto;
-    max-height: 100%;
-    max-width: 100%;
+    max-height: 75%;
+    max-width: 75%;
     height: auto;
     width: auto;
     object-fit: contain;
@@ -41,8 +41,8 @@ img.profile-pic {
 }
 
 img.logo-pic {
-	height: 50%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 	object-fit: cover;
 }
 
