@@ -196,7 +196,7 @@ img.logo-pic {
 }
 
 .button {
-	background-color: #892C06;
+	background-color: #F7F7F7;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -213,10 +213,6 @@ img.logo-pic {
     height: 60%;
     width: 60%;
   }
-  img.logo-pic {
-    height: 50%;
-    width: 50%;
-  }
 }
 
 @media screen and (max-width: 480px) {
@@ -224,8 +220,15 @@ img.logo-pic {
     height: 80%;
     width: 80%;
   }
+}
+
+@media screen and (min-width: 800px) {
+  img.profile-pic {
+    height: 100%;
+    width: 100%;
+  }
   img.logo-pic {
-    height: 50%;
-    width: 50%;
+    height: 80%;
+    width: 80%;
   }
 }
