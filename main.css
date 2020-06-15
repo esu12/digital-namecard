@@ -35,7 +35,7 @@ img {
 img.profile-pic {
 	height: 25%;
 	width: 25%;
-	flot: left;
+	float: left;
 	object-fit: cover;
 	border-radius: 50%;
 }
@@ -48,7 +48,7 @@ img.profile-pic {
 
 .row {
 	display: flex;
-	justify-content: center;
+	justify-content: left;
 	align-items: center;
 	flex-wrap: nowrap;
 	flex-direction: row;
