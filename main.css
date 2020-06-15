@@ -35,7 +35,6 @@ img {
 img.profile-pic {
 	height: 25%;
 	width: 25%;
-	float: left;
 	object-fit: cover;
 	border-radius: 50%;
 }
@@ -48,7 +47,7 @@ img.profile-pic {
 
 .row {
 	display: flex;
-	justify-content: left;
+	justify-content: center;
 	align-items: center;
 	flex-wrap: nowrap;
 	flex-direction: row;
@@ -136,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #00FFFF;
+	background-color: #787878;
 }
 
 .bg-color-white {
@@ -169,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #787878;
+	background-color: #00FFFF;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
