@@ -47,7 +47,7 @@ img.profile-pic {
 
 .row {
 	display: flex;
-	justify-content: center;
+	justify-content: left;
 	align-items: center;
 	flex-wrap: nowrap;
 	flex-direction: row;
@@ -139,7 +139,7 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #892C06;
 }
 
 .text-name {
