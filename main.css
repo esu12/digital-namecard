@@ -223,10 +223,6 @@ img.logo-pic {
 }
 
 @media screen and (min-width: 1000px) {
-  img.profile-pic {
-    height: 30%;
-    width: 30%;
-  }
   img.logo-pic {
     height: 30%;
     width: 30%;
