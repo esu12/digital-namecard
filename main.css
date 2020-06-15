@@ -192,11 +192,12 @@ img.logo-pic {
 }
 
 .bottom {
-	height: 23%;
+	height: 20%;
 }
 
 .button {
 	background-color: #FFFFFF;
+	outline-color: #000000
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
