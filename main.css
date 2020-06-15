@@ -26,8 +26,8 @@ img {
 	float: left;
     margin-left: auto;
     margin-right: auto;
-    max-height: 75%;
-    max-width: 75%;
+    max-height: 100%;
+    max-width: 100%;
     height: auto;
     width: auto;
     object-fit: contain;
@@ -50,6 +50,28 @@ img.profile-pic {
 	display: flex;
 	justify-content: left;
 	align-items: center;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.row.leftside {
+	display: flex;
+	justify-content: left;
+	align-items: left;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.row.rightside {
+	display: flex;
+	justify-content: right;
+	align-items: right;
 	flex-wrap: nowrap;
 	flex-direction: row;
 	position: relative;
