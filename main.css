@@ -34,15 +34,15 @@ img {
 }
 
 img.profile-pic {
-	height: 30%;
-	width: 30%;
+	height: 25%;
+	width: 25%;
 	object-fit: cover;
 	border-radius: 50%;
 }
 
 img.logo-pic {
-	height: 70%;
-	width: 70%;
+	height: 80%;
+	width: 80%;
 	object-fit: cover;
 }
 
